@@ -1,4 +1,0 @@
-cplusplus
-=========
-
-C++ study folder
