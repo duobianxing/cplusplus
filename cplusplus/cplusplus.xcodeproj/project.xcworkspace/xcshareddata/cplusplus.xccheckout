@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AB8AF403-BE88-4500-AF48-C570514EC1F6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cplusplus</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D303ADC1-1C1D-493F-9622-AE16A5237727</key>
+		<string>https://github.com/duobianxing/cplusplus</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cplusplus/cplusplus.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D303ADC1-1C1D-493F-9622-AE16A5237727</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/duobianxing/cplusplus</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D303ADC1-1C1D-493F-9622-AE16A5237727</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D303ADC1-1C1D-493F-9622-AE16A5237727</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cplusplus</string>
+		</dict>
+	</array>
+</dict>
+</plist>
