@@ -14,19 +14,17 @@ void replaceString(char s[], char p[]){
          p2 = &s;
          p1 = p2;
          char *temp = &s;
-         while(temp != "\0"){
+         while(p1 != "\0"){
               bool matched = false;
               while(isMatch(p1, pattern)){
-                  p1 = p1 + plength;
+                  p1 = p1 + plength-1;
                   matched = true;
               }
-              temp = p1;
               if (matched){
                 *p2++ = "X";
-                while(*p1 != "\0"){
-                  *p2++ = *p1++;   
                 }
-              }
+              if (p1 != '\0')
+                 *p2++ = *p1++; 
          }
          *p2 = "\0";
 
