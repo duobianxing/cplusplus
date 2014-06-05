@@ -28,5 +28,6 @@ void replaceString(char s[], char p[]){
                 }
               }
          }
+         *p2 = "\0";
 
 }
